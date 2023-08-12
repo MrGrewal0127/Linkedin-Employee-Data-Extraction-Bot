@@ -1,0 +1,268 @@
+About
+I am a final-year B.tech student with a solid background in data science. I am very interested in using data to tackle real-world problems. I have a talent for detecting patterns and insights in data, and I am adept at utilizing data to make sound judgments. Python, SQL, Power BI, web scraping, and natural language processing are among the skills I have. I am certain that I possess the talents and experience you want in an employee. I am confident that I would contribute significantly to your team.
+
+
+
+experience
+0
+
+
+
+education
+1
+Chandigarh Group Of Colleges
+Bachelor's degree, Electrical, Electronics and Communications Engineering
+
+
+
+
+
+projects
+
+LinkedIn Employee Data Extraction Bot
+Jul 2023 - Jul 2023
+- Developed a LinkedIn scraping bot to extract employee data from the profiles of 100+ companies.
+- The bot extracted data such as names, job titles, addresses, and profile URLs.
+- The bot used a two-part system to extract the data. The first part of the system extracted the list of all employees from the company's LinkedIn page. The second part of the system extracted the detailed information from each employee's profile.
+- The bot ensured data privacy and compliance with legal and ethical guidelines by only extracting public data from LinkedIn profiles.
+Skills:Data Collection · Web Scraping · Selenium WebDriver · Data Cleaning · Data Analysis
+
+
+Booking.com web scraping bot
+Jun 2023 - Jun 2023
+- Developed a robust automation bot using the Selenium library to retrieve a complete list of hotels with details like hotel name, rating, overall experience, number of reviews, price, and GST.
+- Stored the comprehensive hotel details in a CSV file named after the destination for easy organization and analysis.
+- Streamlined data collection, saved time, and empowered businesses with actionable insights for informed decision-making and strategic planning.   
+Skills:Data Collection · Web Scraping · Selenium WebDriver · Data Scraping · Data Cleaning · Data Analysis
+
+
+Dairy Sales Dataset Analysis
+May 2023 - May 2023
+- Created an interactive dashboard using Microsoft Power BI to visualize and analyze data from the Dairy Sales Dataset.
+- The dashboard enables users to explore the data by drilling down into specific metrics or by comparing different data points.
+- The dashboard provides insights into the dairy sales market, such as which products are selling well and which regions are experiencing the most growth.
+- The dashboard can be used to make informed decisions about marketing, sales, and product development.
+Skills:Microsoft Power BI · Data Cleaning · Data Analysis · Python (Programming Language)
+
+
+Diamond Industry Data Analysis
+Apr 2023 - Apr 2023
+- Conducted comprehensive analysis on a massive dataset consisting of 1.5 million data entries.
+- Designed and implemented an optimized algorithm that enables lightning-fast retrieval of the most crucial data within seconds.
+- Empowered data-driven decision-making by extracting valuable insights from the dataset efficiently and effectively.
+Skills:Data Analysis · Python (Programming Language)
+
+
+Smart Refrigirator
+Jan 2023 - Apr 2023
+- Developed a project with object detection capability for identifying and mapping stored items based on weights.
+- Implemented real-time Firebase database integration for efficient data management.
+- Enabled seamless tracking and organization of stored items, optimizing inventory management processes.
+Skills:Internet of Things (IoT) · Object Detection · Project Management · Deep Learning
+
+
+Medical Record Classifier
+Nov 2022 - Nov 2022
+- Implemented a system to label medical records into various categories, including Prescriptions, Reports, X-rays, and more.
+- Enables efficient management of medical records across any healthcare facility.
+- Streamlines the organization and retrieval of medical information, enhancing overall workflow and patient care.
+Skills:Deep Learning · Machine Learning · Python (Programming Language)
+
+
+Game finding application
+Oct 2022 - Oct 2022
+- Developed a project with two modes of operation: CLI (Command Line Interface) and GUI (Graphical User Interface).
+- The CLI mode enables data viewing, editing, updating, and other related functionalities.
+- The GUI mode allows users to input constraint values in a graphic window to retrieve games that match the specified criteria.
+- Enhances user experience by providing both command-line and graphical interfaces for different types of interactions and tasks.
+Skills:Python (Programming Language)
+
+
+Notepad 1.1.0 With JavaFx
+Jul 2021 - Jul 2021
+Show project
+- Developed a feature-rich Notepad application using JavaFX, offering an intuitive and visually appealing user interface.
+- Integrated highly sought-after functionalities, including customizable themes (Dark Theme, Light Theme) and the ability to modify background and text colors, allowing users to personalize their writing environment according to their preferences.
+- Implemented a tab system for multi-tasking, enabling users to work on different projects simultaneously, while also providing essential writing statistics such as word count, line count, and real-time cursor position for efficient content creation and editing.
+
+
+Calculator Using Core JAVA
+Jun 2021 - Jun 2021
+Show project
+- Developed a robust Calculator application using Java, encompassing a comprehensive set of functions typically found in high-quality calculators.  
+- Implemented a history feature that records and displays the sequence of calculations performed, preserving the context and allowing users to review their calculations at any time.
+- Ensured versatility by abstracting the number tiles from the main portion, providing a clean and organized user interface that enhances usability and readability for complex calculations.
+
+
+Pacman Monster Stimulation In TurboC++ Using C
+Dec 2020 - Dec 2020
+Show project
+In this stimulation, Program makes a stage for Pacman and one of the monsters from the Pacman Game is engendered, which moves desultorily anywhere on the map, it changes its direction whenever it encounters a wall in front of the monster.
+
+
+
+Ludo Game In TurboC++ Using C
+Nov 2020 - Nov 2020
+Show project
+This Game provides the utilizer, the symbols of different colours and dice for the players which are located in the centre of the game board. This game works equipollent to the one we play in authentic life this only provides us game board, dice, 4 sets of 4 types of different symbols it withal shows the coordinates of every piece in the game.
+
+Controls
+:- To move use {w,a,s,d}
+:- Press enter to throw your dice or to transmute turns
+:- Press space to throw your dice again consecutively
+:- After you throw the dice, irrespective of your pieces all are incapacitated, you have to cull one from them for the sake of the game to perpetuate.
+:- To bring your pieces in front of your place, cull your pieces on your turn and press zero to elicit them.
+:- When all the pieces of one person reach their final positions one triumpher will be declared.
+
+
+
+Ball Balance Animation In TurboC++ Using C
+Sep 2020 - Sep 2020
+Show project
+This animation commences by engendering the stages piecemeal, first, it engenders a platform which we have to stop by pressing any key, after that it will engender the rest of the stages and the ball. This Ball will move on the rod, which moves equipollent to a weight balance, this ball consummates illimitable rounds until you press any key to tell the ball to stop after its current round.
+
+
+Snake Ladder Game In TurboC++ Using C
+Sep 2020 - Sep 2020
+Show project
+This Game provides u ur symbols and two dices for each player which are located on either side of the game board. this game works identically tantamount to the one we play in genuine life this only provides us game boards, dice, symbols to play.
+Controls
+ : - to move use {w,a,s,d}
+:- press enter to throw ur dice or to transmute turns
+:- press space to throw ur dice again consecutively
+:- Game will declare a victor when one player reaches on the top and exits the game board from the top left corner
+
+
+Stone Paper Scissors In TurboC++ Using C
+Aug 2020 - Aug 2020
+Show project
+In this game, we have four options Stone, Paper, Scissors, Exit which we can avail with the help of numbers 1-4 all other keys are disabled the game even shows u that u choose the wrong options. U will get 3 lives in the game if u loses ur 1 life will be taken. When u loses all the lives Game will be over.
+
+
+
+Tic Tac Toe In TurboC++ Using C
+Aug 2020 - Aug 2020
+Show project
+In this game, we can cull which symbol we wanna use either "O" or "X", and the turn we wanna take is either "1" or "2", u cant cull any other key other than these concrete keys. After the Stage is Loaded u can cull a number from 1-9 all other keys are incapacitated and if you ur opponent or u cull a key then it withal gets incapacitated. In the cessation, the Game shows if u win or not.
+
+
+
+
+skills
+
+
+Leadership
+Leadership Skills by IIM Ahmedabad
+Endorse
+
+
+Large Language Models (LLM)
+Introduction of LLM by Google cloud
+Endorse
+
+
+Prompt Engineering
+Introduction of LLM by Google cloud
+Endorse
+
+
+Generative AI
+Introduction to Generative AI by Google Cloud
+Introduction of LLM by Google cloud
+Endorse
+
+
+Data Collection
+Booking.com web scraping bot
+LinkedIn Employee Data Extraction Bot
+Endorse
+
+
+Web Scraping
+Booking.com web scraping bot
+LinkedIn Employee Data Extraction Bot
+Endorse
+
+
+Selenium WebDriver
+Booking.com web scraping bot
+LinkedIn Employee Data Extraction Bot
+Endorse
+
+
+Microsoft Power BI
+Dairy Sales Dataset Analysis
+Endorse
+
+
+Internet of Things (IoT)
+Smart Refrigirator
+Endorse
+
+
+Object Detection
+Smart Refrigirator
+Endorse
+
+
+Project Management
+Smart Refrigirator
+Endorse
+
+
+Deep Learning
+Medical Record Classifier
+Smart Refrigirator
+Endorse
+
+
+Data Scraping
+Data Science: Python for data analysis bootcamp
+Booking.com web scraping bot
+Endorse
+
+
+Data Cleaning
+Data Science: Python for data analysis bootcamp
+Dairy Sales Dataset Analysis
+Booking.com web scraping bot
+Show all 4 details
+Endorse
+
+
+Data Analytics
+Data Science: Python for data analysis bootcamp
+Endorse
+
+
+Machine Learning
+Intermediate Machine Learning
+AI & ML 4 week training using Python
+Medical Record Classifier
+Endorse
+
+
+Data Analysis
+Data Analytics
+AI & ML 4 week training using Python
+Diamond Industry Data Analysis
+Show all 6 details
+Endorse
+
+
+Python (Programming Language)
+Python
+AI & ML 4 week training using Python
+Game finding application
+Show all 6 details
+Endorse
+
+
+Engineering
+2 endorsements
+Endorse
+
+
+Communication
+2 endorsements
+Endorse
